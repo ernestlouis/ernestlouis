@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,qt,js,ts,html,css,react,express,postgresql,mysql,sqlite,supabase,cmake,photoshop,python,anaconda,arduino,bash,visualstudio,vscode,git,github,blender,unreal,windows,apple,linux,ubuntu,mint&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,qt,js,html,css,postgresql,mysql,cmake,bash,visualstudio,vscode,git,github,blender,unreal,windows,apple,linux,ubuntu,mint&theme=dark" />
   </a> 
 </div> 
 
