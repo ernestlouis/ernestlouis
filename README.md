@@ -62,8 +62,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louiescript&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=louiescript&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ernestlouis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ernestlouis&theme=tokyonight&hide_border=false" height="150" />
 </div>
 
 
